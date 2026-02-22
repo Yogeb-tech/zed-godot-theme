@@ -10,7 +10,7 @@
 #    steps:
 #      - uses: huacnlee/zed-extension-action@v1
 #        with:
-#          extension-name: godot-theme
+#          extension-name: godot-engine-theme
 #          # extension-path: extensions/${{ extension-name }}
 #          push-to: Yogeb-tech/zed-extensions
 #        env:

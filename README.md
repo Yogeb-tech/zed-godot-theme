@@ -1,4 +1,4 @@
-# Godot Theme
+# Godot Engine Theme
 
 ## Introduction
 
