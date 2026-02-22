@@ -20,7 +20,7 @@ This theme takes direct inspiration from the Godot Engine's editor, borrowing it
 
 ## Installation
 
-Install this theme from the extension panel: search for "_Day Shift Theme_".
+Install this theme from the extension panel: search for "_Godot Theme_".
 
 You can find this theme in the Zed extension Marketplace.
 
