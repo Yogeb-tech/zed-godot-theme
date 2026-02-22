@@ -1,0 +1,7 @@
+id = "godot-theme"
+name = "Godot Theme"
+schema_version = 1
+version = "0.0.1"
+authors = ["Yogeb-tech"]
+description = " A theme inspired by the Godot Engine editor"
+repository = "https://github.com/Yogeb-tech/zed-godot-theme"
